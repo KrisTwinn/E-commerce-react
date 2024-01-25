@@ -1,0 +1,14 @@
+.anteprima-articoli {
+    margin-top: 50px;
+
+    h2.anteprima-categoria {
+        text-transform: uppercase;
+    }
+
+    .lista-articoli {
+        display: flex;
+        flex-wrap: wrap;
+        align-content: space-between;
+        gap: 15px 15px
+    }
+}
